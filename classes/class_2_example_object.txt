@@ -1,0 +1,14 @@
+Instance/object Frankenstein
+
+Attributes
+deaths = 7
+horror_type ="Classic"
+scary = true
+characters =21
+character_name="Victor Frankenstein"
+
+Methods
+death_to_character_ratio = 21 / 7 = 3
+add_number_of_deaths 7 + 3 = 10 deaths 18 characters
+change_horror_type = "Slasher"
+change_character_name = "Dracula"

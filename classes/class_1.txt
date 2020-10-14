@@ -1,0 +1,13 @@
+fastFood
+
+Attributes
+price (float)
+name (string)
+dine_in (boolean)
+menu (hash)
+
+Methods
+change_price (subtract 1.40 from price)
+print_name (all caps name)
+change_dine_in
+add_item (add item to menu)

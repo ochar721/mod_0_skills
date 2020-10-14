@@ -1,0 +1,13 @@
+instance/object  Haute Dogs
+
+Attributes
+price 5.79
+name ="Haute Dogs"
+dine_in =false
+menu {"Combo 1": Miniature Dog, "Combo 2": Small Dog, "Combo 3": Medium Dog}
+
+Methods
+change_price = 5.79 - 1.40 = 4.39
+print_name "HAUTE DOGS"
+change_dine_in = True
+add_item  {"Combo 4": Large Dog}

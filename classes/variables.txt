@@ -1,0 +1,27 @@
+food = "taco"
+puts food
+
+is_delicious = "true"
+puts is_delicious
+
+food = "cake"
+puts food
+
+num2 = "4"
+puts num2
+
+num7 = "16"
+puts num7
+
+quotient = 16 / 4
+puts quotient
+
+songs = ["Country", "Rap", "Opera"]
+puts songs
+
+songs = [ "Country", "Rap", "Opera"]
+songs.delete("Country")
+print songs;
+
+
+array_count = food

@@ -2,13 +2,12 @@ Instance/object Frankenstein
 
 Attributes
 deaths = 7
-horror_type ="Classic"
+genre ="Classic"
 scary = true
-characters =21
-character_name="Victor Frankenstein"
+cast = {"Dr. Frankenstein" => 0 "Frankenstein" => 1  "Villager 1" => 2}
 
 Methods
-death_to_character_ratio = 21 / 7 = 3
-add_number_of_deaths 7 + 3 = 10 deaths 18 characters
-change_horror_type = "Slasher"
-change_character_name = "Dracula"
+death_to_cast_ratio = 21 / 7 = 3
+add_number_of_deaths 7 + 3 = 10 deaths
+change_genre = "Slasher"
+add_cast_member = {"Villager 2" => 3}  cast {:b} = 3 cast # =>

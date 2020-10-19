@@ -1,9 +1,9 @@
-instance/object  Haute Dogs
+instance/object  HauteDogs
 
 Attributes
 price 5.79
 name ="Haute Dogs"
-dine_in =false
+dine_in = false
 menu {"Combo 1": Miniature Dog, "Combo 2": Small Dog, "Combo 3": Medium Dog}
 
 Methods

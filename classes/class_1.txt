@@ -1,4 +1,4 @@
-fastFood
+Class FastFood
 
 Attributes
 price (float)

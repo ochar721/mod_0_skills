@@ -1,14 +1,14 @@
-Class Horror Movie
+Class HorrorMovie
 
 Attributes
 deaths (integer)
-horror_type (string)
+genre (string)
 scary (boolean)
-characters (integer)
-character_name (string)
+cast (hash)
+
 
 Methods
-death_to_character_ratio (divide characters / deaths)
-add_number_of_deaths (increase deaths / decrease characters)
-change_horror_type (reassign horror_type)
-change_character_name (reassign character_name)
+death_to_cast_ratio (divide cast / deaths)
+add_number_of_deaths (increase deaths)
+change_genre (reassign horror_type)
+add_cast_member (increase cast)
